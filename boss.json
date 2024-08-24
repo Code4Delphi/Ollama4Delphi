@@ -1,0 +1,13 @@
+{
+	"name": "Ollama4D",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {
+		"github.com/hashload/horse": "^3.1.6",
+		"github.com/hashload/jhonson": "^1.1.9",
+		"github.com/viniciussanchez/restrequest4delphi": "^v4.0.19"
+	}
+}
