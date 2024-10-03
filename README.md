@@ -1,4 +1,4 @@
-# Ollama4Delphi
+# 🔷 Ollama4Delphi
 
 ## 📄 DOCUMENTATION UNDER CONSTRUCTION
 **We will soon publish the complete documentation for the Plugin.** 
